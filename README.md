@@ -1,161 +1,190 @@
-# 👋 Hi, I'm Hassan Hamdi
+<h1 align="center">Hi 👋, I'm Hassan Hamdi</h1>
 
-<div align="center">
+<h3 align="center">Full-Stack Developer | React • Next.js • Directus • PostgreSQL</h3>
 
-### Full-Stack Developer | React • Next.js • Directus • PostgreSQL
+<p align="center">
+Passionate about building scalable, high-performance web applications with modern technologies.
+</p>
 
-Building modern, scalable, and user-focused web applications.
+<p align="center">
+<a href="https://hassan-hamdi-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-github)
+<a href="https://www.linkedin.com/in/hassan-hamdia/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</div>
+<a href="https://github.com/hassan3030" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 
----
-
-## 🚀 About Me
-
-I'm a **Full-Stack Developer** from Egypt with a passion for building modern web applications that are fast, scalable, and easy to use.
-
-I enjoy transforming ideas into production-ready applications using modern JavaScript technologies while focusing on clean architecture, performance, and great user experiences.
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Redux
-- Responsive Design
-- Progressive Web Apps (PWA)
-
-### Backend
-
-- Directus CMS
-- PostgreSQL
-- RESTful APIs
-- API Integration
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
-
-### Practices
-
-- Agile / Scrum
-- SDLC
-- SOLID Principles
-- Clean Code
-- Performance Optimization
+<a href="https://x.com/HassanHDevelop" target="_blank">
+<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
+</a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 💫 About Me
 
-### 🛒 Swibba — Buy, Sell, Rent & Swap Marketplace
+👨‍💻 Full-Stack Developer from **Egypt**
+
+💻 I enjoy building modern web applications using **React, Next.js, TypeScript, Directus, and PostgreSQL**.
+
+🚀 Passionate about clean architecture, reusable components, performance optimization, and great user experiences.
+
+🌱 Currently learning
+
+- Advanced Next.js
+- System Design
+- Cloud Deployment
+- DevOps
+
+---
+
+# 🌐 Portfolio
+
+### 🔗 https://hassan-hamdi-portfolio.vercel.app/
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Swibba — Buy, Sell, Rent & Swap Marketplace
 
 A modern marketplace platform where users can:
 
-- Buy products
-- Sell products
-- Rent items
-- Swap products
+- Buy
+- Sell
+- Rent
+- Swap
 
-**Features**
+### Features
 
 - Multi-language
 - RTL Support
-- Dark / Light Mode
 - Progressive Web App (PWA)
-- Responsive Design
-- Dynamic CMS
+- Dark / Light Mode
+- Directus CMS
 - REST API Integration
+- Responsive Design
 
-**Tech**
+**Tech Stack**
 
 React • Next.js • TypeScript • Tailwind CSS • Directus • PostgreSQL
 
 ---
 
-### ⚖️ LawKhalid — Legal Services Platform
+## ⚖️ LawKhalid — Legal Services Platform
 
-A modern legal services platform designed for lawyers and clients.
+Professional legal services platform featuring:
 
-**Features**
-
-- Legal Services
 - Practice Areas
+- Legal Services
 - Consultation Requests
-- Blog & Articles
-- Contact Management
-- SEO Optimized
+- Articles & Blog
+- SEO Optimization
+- Responsive Design
 
-**Tech**
+**Tech Stack**
 
-React • Next.js • Tailwind CSS • Directus • PostgreSQL
+React • Next.js • TypeScript • Tailwind CSS • Directus • PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,nodejs"/>
+</p>
+
+**CMS**
+
+- Directus
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hassan3030&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan3030&layout=compact&theme=transparent"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME"/>
+<img src="https://streak-stats.demolab.com?user=hassan3030&theme=transparent"/>
 
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 📫 Contact Me
 
-- Advanced Next.js
-- System Design
-- Microservices
-- Cloud Deployment
-- DevOps Fundamentals
+📧 **Email**
+
+hassan.hamdi.dev@gmail.com
+
+📱 **Phone**
+
++20 103 170 6044
+
+🌐 **Portfolio**
+
+https://hassan-hamdi-portfolio.vercel.app/
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/hassan-hamdia/
+
+🐦 **X (Twitter)**
+
+https://x.com/HassanHDevelop
+
+🐙 **GitHub**
+
+https://github.com/hassan3030
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-📧 Email: hassan.hamdi.dev@gmail.com
+I'm always interested in:
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-🌐 Portfolio: https://your-portfolio.com
-
-🐙 GitHub: https://github.com/your-github
+- Full-Stack Development
+- Open Source
+- Web Technologies
+- Freelance Opportunities
+- Collaboration on exciting projects
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you like my work, don't forget to ⭐ my repositories.
 
 </div>
