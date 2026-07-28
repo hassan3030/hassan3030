@@ -135,25 +135,6 @@
 
 ---
 
-## ⚖️ LawKhalid
-
-Modern Legal Services Platform
-
-✨ Features
-
-- Legal Services
-- Consultation Requests
-- Articles
-- Practice Areas
-- Contact Forms
-- SEO
-- Responsive Design
-
-**Tech**
-
-`React` `Next.js` `TailwindCSS` `TypeScript` `Directus`
-
----
 
 # 📊 GitHub Statistics
 
